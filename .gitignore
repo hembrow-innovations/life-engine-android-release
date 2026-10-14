@@ -2,3 +2,9 @@
 *.aab
 *.idsig
 .DS_Store
+node_modules/
+dist/
+target/
+.env
+.env.local
+.secrets/
